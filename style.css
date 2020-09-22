@@ -1,0 +1,28 @@
+.header {
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+}
+
+.post {
+    border: 3px solid black;
+    width: 506px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+.feed {
+    background-color: grey;
+}
+.date {
+    float: right;
+    margin: 5px;
+}
+.top {
+        margin: 5px;
+}
+.comments{
+    margin: 20px;
+}
